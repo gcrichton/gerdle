@@ -1,5 +1,9 @@
 Word Guessing Game
 
+Gerdle - Cornish version of Wordle (ger n.m, geryown pl - word)
+
+Fork of https://github.com/hannahcode/word-guessing-game
+
 This is a clone project of a popular word guessing game made using React, Typescript, and Tailwind.
 
 _To Run Locally:_
