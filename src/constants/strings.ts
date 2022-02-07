@@ -1,4 +1,4 @@
-export const GAME_TITLE = 'GWARI'
+export const GAME_TITLE = 'Gerdle'
 
 export const WIN_MESSAGES = ['Splann!', 'Bryntin!', 'Keslowena!']
 export const GAME_COPIED_MESSAGE = 'Gwari dasskrifa dhe astel glypp'
@@ -11,7 +11,7 @@ export const ENTER_TEXT = 'Entra'
 export const DELETE_TEXT = 'Dilea'
 export const STATISTICS_TITLE = 'Statystek'
 export const GUESS_DISTRIBUTION_TEXT = 'Dismygi Lesrannans'
-export const NEW_WORD_TEXT = 'owydh geryow et'
+export const NEW_WORD_TEXT = 'Nowydh geryow et'
 export const SHARE_TEXT = 'Kevren'
 export const TOTAL_TRIES_TEXT = 'Somm assays'
 export const SUCCESS_RATE_TEXT = 'Sewena kevradh'
