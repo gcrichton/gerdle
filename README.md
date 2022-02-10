@@ -4,6 +4,9 @@ Gerdle - Cornish version of Wordle (ger n.m, geryown pl - word)
 
 Demo: https://gerdle.vext.co.uk
 
+![Alt text](https://vext.co.uk/screens/main_screen.png "Cornish Gerdle app screenshot")
+![Alt text](https://vext.co.uk/screens/share_screen.png "Cornish Gerdle share screenshot")
+
 Fork of https://github.com/cwackerfuss/react-wordle
 
 This is a clone project of a popular word guessing game made using React, Typescript, and Tailwind.
