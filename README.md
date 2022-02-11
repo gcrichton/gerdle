@@ -1,6 +1,6 @@
 Word Guessing Game
 
-Gerdle - Cornish version of Wordle (ger n.m, geryown pl - word)
+Gerdle - a Cornish version of Wordle (ger n.m, geryown pl - word)
 
 Demo: https://gerdle.vext.co.uk
 
