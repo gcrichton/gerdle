@@ -13,10 +13,10 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
 <br /><a href="https://github.com/gcrichton/gerdle"  className="underline font-bold"
 >Gerdle</a>
 <br />Based on {' '}
-        <a
-          href="https://github.com/cwackerfuss/react-wordle"
-          className="underline font-bold"
-        >
+{' '}
+        <a href="https://github.com/cwackerfuss/react-wordle"
+          className="underline font-bold">
+        
           Reactle        </a>{' '}
       </p>
     </BaseModal>

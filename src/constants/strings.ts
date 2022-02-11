@@ -6,7 +6,7 @@ export const ABOUT_GAME_MESSAGE = 'A-dro dhe gwari'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Na lowr lytherow'
 export const WORD_NOT_FOUND_MESSAGE = 'Geryow na fondya'
 export const CORRECT_WORD_MESSAGE = (solution: string) =>
-  'An ger eus ${solution}'
+  `The word was ${solution}`
 export const ENTER_TEXT = 'Entra'
 export const DELETE_TEXT = 'Dilea'
 export const STATISTICS_TITLE = 'Statystek'
