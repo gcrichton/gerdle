@@ -9,7 +9,7 @@ Demo: https://gerdle.vext.co.uk
 
 Based on https://github.com/cwackerfuss/react-wordle
 
-This is a clone project of a popular word guessing game made using React, Typescript, and Tailwind.
+This is a clone project of a popular word guessing game made using React, Typescript and Tailwind.
 
 _To Run Locally:_
 Clone the repository and perform the following command line actions:
