@@ -1,4 +1,4 @@
-Word Guessing Game
+Cornish/ Kernowek word guessing game
 
 Gerdle - a Cornish version of Wordle (ger n.m, geryown pl - word)
 
